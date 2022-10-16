@@ -1,0 +1,15 @@
+C:\Users\bilgi\source\repos\PROJELER\YoCafe\Entities\bin\Release\net5.0\Entities.deps.json
+C:\Users\bilgi\source\repos\PROJELER\YoCafe\Entities\bin\Release\net5.0\Entities.dll
+C:\Users\bilgi\source\repos\PROJELER\YoCafe\Entities\bin\Release\net5.0\ref\Entities.dll
+C:\Users\bilgi\source\repos\PROJELER\YoCafe\Entities\bin\Release\net5.0\Entities.pdb
+C:\Users\bilgi\source\repos\PROJELER\YoCafe\Entities\bin\Release\net5.0\Core.dll
+C:\Users\bilgi\source\repos\PROJELER\YoCafe\Entities\bin\Release\net5.0\Core.pdb
+C:\Users\bilgi\source\repos\PROJELER\YoCafe\Entities\obj\Release\net5.0\Entities.csprojAssemblyReference.cache
+C:\Users\bilgi\source\repos\PROJELER\YoCafe\Entities\obj\Release\net5.0\Entities.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\bilgi\source\repos\PROJELER\YoCafe\Entities\obj\Release\net5.0\Entities.AssemblyInfoInputs.cache
+C:\Users\bilgi\source\repos\PROJELER\YoCafe\Entities\obj\Release\net5.0\Entities.AssemblyInfo.cs
+C:\Users\bilgi\source\repos\PROJELER\YoCafe\Entities\obj\Release\net5.0\Entities.csproj.CoreCompileInputs.cache
+C:\Users\bilgi\source\repos\PROJELER\YoCafe\Entities\obj\Release\net5.0\Entities.csproj.CopyComplete
+C:\Users\bilgi\source\repos\PROJELER\YoCafe\Entities\obj\Release\net5.0\Entities.dll
+C:\Users\bilgi\source\repos\PROJELER\YoCafe\Entities\obj\Release\net5.0\ref\Entities.dll
+C:\Users\bilgi\source\repos\PROJELER\YoCafe\Entities\obj\Release\net5.0\Entities.pdb
